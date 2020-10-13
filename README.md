@@ -2,4 +2,4 @@
 
 Basic template for starters
 
-Dark Mode coming soon
+Dark Mode added!
